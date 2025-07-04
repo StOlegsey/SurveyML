@@ -1,0 +1,419 @@
+Courses: [
+    {
+        "id": 27698,
+        "innerId": 0,
+        "title": "Fundamental Python Course: From Basics to Olympiad Level",
+        "organization": {
+            "code": "3531",
+            "name": "School of Programmers"
+        },
+        "difficultyLevel": {
+            "code": "novice",
+            "name": "Beginner",
+            "order": 1
+        }
+    },
+    {
+        "id": 27550,
+        "innerId": 1,
+        "title": "Games in Python: From Idea to Implementation. Beginner Level",
+        "organization": {
+            "code": "3516",
+            "name": "Foxford"
+        },
+        "difficultyLevel": {
+            "code": "novice",
+            "name": "Beginner",
+            "order": 1
+        }
+    },
+    {
+        "id": 27700,
+        "innerId": 2,
+        "title": "Web Programming in JavaScript: From Your Own Website to Fullstack Developer",
+        "organization": {
+            "code": "3531",
+            "name": "School of Programmers"
+        },
+        "difficultyLevel": {
+            "code": "novice",
+            "name": "Beginner",
+            "order": 1
+        }
+    },
+    {
+        "id": 27722,
+        "innerId": 3,
+        "title": "Discover the World of Programming from Scratch in Python MAXIMUM",
+        "organization": {
+            "code": "3538",
+            "name": "MAXIMUM Education"
+        },
+        "difficultyLevel": {
+            "code": "novice",
+            "name": "Beginner",
+            "order": 1
+        }
+    },
+    {
+        "id": 27723,
+        "innerId": 4,
+        "title": "Create Cool Graphics: Design Lessons from Scratch MAXIMUM",
+        "organization": {
+            "code": "3538",
+            "name": "MAXIMUM Education"
+        },
+        "difficultyLevel": {
+            "code": "novice",
+            "name": "Beginner",
+            "order": 1
+        }
+    },
+    {
+        "id": 27735,
+        "innerId": 5,
+        "title": "Tame Artificial Intelligence with Python",
+        "organization": {
+            "code": "44",
+            "name": "Innopolis University"
+        },
+        "difficultyLevel": {
+            "code": "novice",
+            "name": "Beginner",
+            "order": 1
+        }
+    },
+    {
+        "id": 27373,
+        "innerId": 6,
+        "title": "WebMaster. Web Development in JavaScript",
+        "organization": {
+            "code": "3024",
+            "name": "LLC 'MEO'"
+        },
+        "difficultyLevel": {
+            "code": "novice",
+            "name": "Beginner",
+            "order": 1
+        }
+    },
+    {
+        "id": 27783,
+        "innerId": 7,
+        "title": "C++ Programmer",
+        "organization": {
+            "code": "1358",
+            "name": "Synergy University"
+        },
+        "difficultyLevel": {
+            "code": "novice",
+            "name": "Beginner",
+            "order": 1
+        }
+    },
+    {
+        "id": 27829,
+        "innerId": 8,
+        "title": "Python: Programming Basics (Online)",
+        "organization": {
+            "code": "1435",
+            "name": "Educational Autonomous Nonprofit Higher Education Organization 'Moscow Technological Institute'"
+        },
+        "difficultyLevel": {
+            "code": "novice",
+            "name": "Beginner",
+            "order": 1
+        }
+    },
+    {
+        "id": 27770,
+        "innerId": 9,
+        "title": "Ethical Hacking in Python",
+        "organization": {
+            "code": "1305",
+            "name": "RUKON Tsel"
+        },
+        "difficultyLevel": {
+            "code": "base",
+            "name": "Basic",
+            "order": 2
+        }
+    },
+    {
+        "id": 27771,
+        "innerId": 10,
+        "title": "Game Developer in Python",
+        "organization": {
+            "code": "1305",
+            "name": "RUKON Tsel"
+        },
+        "difficultyLevel": {
+            "code": "base",
+            "name": "Basic",
+            "order": 2
+        }
+    },
+    {
+        "id": 27646,
+        "innerId": 11,
+        "title": "Website Creation and Publishing: From HTML Basics to Animation and Integration (Online)",
+        "organization": {
+            "code": "1206",
+            "name": "Volgograd State Technical University"
+        },
+        "difficultyLevel": {
+            "code": "novice",
+            "name": "Beginner",
+            "order": 1
+        }
+    }
+]
+
+Questions:
+
+---
+
+1. How would you rate your programming knowledge?
+
+1. Complete beginner, never written code.
+2. Know the basics (e.g., simple constructs, loops, functions).
+3. Can handle more complex tasks (e.g., algorithms, data structures).
+4. Experienced developer, ready for advanced projects.
+
+2. How familiar are you with mathematics?
+
+1. Only basic level (e.g., arithmetic and simple equations).
+2. Understand school curriculum well, enjoy solving problems.
+3. Can apply math in programming (e.g., formulas, calculations).
+4. Studied advanced mathematics (e.g., olympiad problems).
+
+3. Do you have experience creating projects?
+
+1. Not yet, want to learn.
+2. Have written simple programs or school projects.
+3. Worked on my own small projects or participated in hackathons.
+4. Built complex projects for business or personal portfolio.
+
+4. Do you have an educational background?
+
+1. No, or incomplete education.
+2. Yes, general secondary education.
+3. Yes, vocational secondary education.
+4. Yes, higher education.
+
+5. Which school subjects interested you the most?
+
+1. Humanities (Russian, History, Geography, etc.).
+2. Chemistry, Biology.
+3. Math-related (Geometry, Math, Physics, etc.).
+4. None of the above.
+
+6. What attracts you most in programming?
+
+1. Solving complex problems and algorithms.
+2. Creating websites and web applications.
+3. Developing games and animations.
+4. Artificial intelligence and machine learning.
+
+7. Which programming language interests you the most?
+
+1. Python
+2. JavaScript
+3. C++
+4. Not sure yet, want to explore
+
+8. What IT field would you like to work in?
+
+1. Game development
+2. Web development
+3. AI and data analysis
+4. General training, not sure yet
+
+9. What learning format do you prefer?
+
+1. Online course
+2. Project-based (learning by doing)
+3. Theory with exercises
+4. Doesn't matter, quality matters most
+
+10. Are you interested in building websites?
+
+1. Yes, want to learn from scratch
+2. Somewhat, if it's part of broader training
+3. No, more interested in algorithms and languages
+4. I want to make games or graphics, not websites
+
+11. Are you interested in algorithms and competitive programming?
+
+1. Yes, want to study algorithms in depth
+2. Somewhat, but not in a competitive format
+3. No, I'm more interested in other fields
+4. Only if it helps in game or AI programming
+
+12. What type of problems do you find most interesting?
+
+1. Logic puzzles and algorithms
+2. UI and interface development
+3. Working with big data and automation
+4. Hacking and cybersecurity
+
+13. Do you prefer working with code or visual elements?
+
+1. Code — I love programming
+2. Visuals — I’m interested in design and graphics
+3. A balance of both code and visuals
+4. More interested in the learning process itself
+
+14. What work style suits you more?
+
+1. Solo development — like figuring things out myself
+2. Team projects
+3. Structured assignments as part of a course
+4. Creative freedom without strict limitations
+
+15. Do you want to learn a language widely used in the industry?
+
+1. Yes, want to learn a popular, in-demand language
+2. It's important, but learning itself matters more
+3. Not necessarily, it should fit my needs
+4. More interested in experimental tech or adjacent fields
+
+16. How important is practical application in a course for you?
+
+1. Very important — want to apply skills right away
+2. Somewhat — theory also matters
+3. Not critical — I just want to understand the topic
+4. Important, but I want more creativity and freedom
+
+17. What skills beyond programming would you like to develop?
+
+1. Logical thinking and problem-solving
+2. Design and creativity
+3. Teamwork and project skills
+4. Data analysis and machine learning
+
+18. Are you interested in learning the basics of graphic design and visual effects?
+
+1. Yes, very interested
+2. To some extent, if useful for projects
+3. Not much, prefer programming
+4. Not interested at all
+
+19. How do you feel about creating animations and interactive interfaces?
+
+1. Really like it — want to learn how
+2. Interested if it’s part of a course
+3. Not particularly interested
+4. Don’t like visual stuff
+
+20. Would you like to write clean, efficient code in a popular language and go deep into its features?
+
+1. Yes, want to study it in depth
+2. Interested, but not too theoretical
+3. Prefer more surface-level understanding
+4. Not sure yet
+
+21. Are you inspired by the idea of creating games from concept to implementation?
+
+1. Yes, very inspiring
+2. Only if it makes learning fun
+3. No, I prefer other areas
+4. Not sure
+
+22. How interested are you in JavaScript for building interactive web apps?
+
+1. Very interested
+2. Somewhat
+3. Not interested at all
+4. Not familiar with it
+
+23. Do you want a course that gives a broad foundation in programming from scratch?
+
+1. Yes, want to start from the very basics
+2. Somewhat familiar, but a refresher would help
+3. Want something more advanced
+4. Not interested
+
+24. Do you want to develop creativity through digital design and visual projects?
+
+1. Yes, that’s exactly what I need
+2. To some extent
+3. Don’t think it suits me
+4. I don’t want that
+
+25. Are you interested in how neural networks learn and are used in real tasks?
+
+1. Yes, want to understand that
+2. Superficially interested
+3. Don’t see the point
+4. Not ready to dive into it yet
+
+26. Would you like to learn how to build web apps from scratch and understand the full tech stack?
+
+1. Yes, want the full development cycle
+2. Only interested in frontend
+3. No, prefer backend
+4. Not interested
+
+27. Are you interested in low-level programming and working with high-performance systems?
+
+1. Yes, want to understand how it all works
+2. A bit, for general understanding
+3. No, it’s too complex
+4. Not interested
+
+28. Would you like to quickly learn Python basics online, without extra theory?
+
+1. Yes, quick and convenient
+2. Online is fine, but theory matters too
+3. Prefer in-person learning
+4. Don’t want an oversimplified approach
+
+29. Are you interested in cybersecurity and ethical hacking?
+
+1. Yes, want to understand system protection
+2. Interested if there’s hands-on practice
+3. Only for general knowledge
+4. Not interested at all
+
+30. Would you like to create your own game projects with graphics, logic, and UI?
+
+1. Yes, I want to try that
+2. Maybe, if the learning isn’t too hard
+3. Only as a secondary skill
+4. No, I don’t want that
+
+31. Are you interested in publishing websites, animating elements, and connecting external services?
+
+1. Yes, sounds interesting
+2. To some extent
+3. Not really, code is more important
+4. Not interested
+
+32. How important are real-world examples and case studies in your learning?
+
+1. Very important — I want to see practical use
+2. Helpful if it supports the theory
+3. Sometimes distracting
+4. Doesn’t matter
+
+33. Do you prefer a course with creative freedom over strict step-by-step tasks?
+
+1. Yes, I like to choose my own path
+2. Sometimes, if I know what to do
+3. Prefer a clear structure
+4. No, I need step-by-step guidance
+
+34. If working in a team, what role would you take?
+
+1. Analyzing the task
+2. Coordinating the team
+3. Doing the technical implementation
+4. Coming up with ideas for the project
+
+35. Would you like to engage in scientific research?
+
+1. Yes, I’d be interested in that in the future
+2. Only if it’s part of a company’s work
+3. No, I’m more into practical tasks
+4. Not sure yet
